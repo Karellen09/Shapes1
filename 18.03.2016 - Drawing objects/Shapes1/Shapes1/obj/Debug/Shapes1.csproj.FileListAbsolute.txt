@@ -1,0 +1,14 @@
+C:\Users\Karellen\Desktop\MASTER PROJECT\New beginning\C#\18.03.2016 - Drawing objects\Shapes1\Shapes1\bin\Debug\Shapes1.exe.config
+C:\Users\Karellen\Desktop\MASTER PROJECT\New beginning\C#\18.03.2016 - Drawing objects\Shapes1\Shapes1\bin\Debug\Shapes1.exe
+C:\Users\Karellen\Desktop\MASTER PROJECT\New beginning\C#\18.03.2016 - Drawing objects\Shapes1\Shapes1\bin\Debug\Shapes1.pdb
+C:\Users\Karellen\Desktop\MASTER PROJECT\New beginning\C#\18.03.2016 - Drawing objects\Shapes1\Shapes1\obj\Debug\Shapes1.csprojResolveAssemblyReference.cache
+C:\Users\Karellen\Desktop\MASTER PROJECT\New beginning\C#\18.03.2016 - Drawing objects\Shapes1\Shapes1\obj\Debug\MainWindow.g.cs
+C:\Users\Karellen\Desktop\MASTER PROJECT\New beginning\C#\18.03.2016 - Drawing objects\Shapes1\Shapes1\obj\Debug\App.g.cs
+C:\Users\Karellen\Desktop\MASTER PROJECT\New beginning\C#\18.03.2016 - Drawing objects\Shapes1\Shapes1\obj\Debug\Shapes1_MarkupCompile.cache
+C:\Users\Karellen\Desktop\MASTER PROJECT\New beginning\C#\18.03.2016 - Drawing objects\Shapes1\Shapes1\obj\Debug\Shapes1_MarkupCompile.lref
+C:\Users\Karellen\Desktop\MASTER PROJECT\New beginning\C#\18.03.2016 - Drawing objects\Shapes1\Shapes1\obj\Debug\MainWindow.baml
+C:\Users\Karellen\Desktop\MASTER PROJECT\New beginning\C#\18.03.2016 - Drawing objects\Shapes1\Shapes1\obj\Debug\Shapes1.g.resources
+C:\Users\Karellen\Desktop\MASTER PROJECT\New beginning\C#\18.03.2016 - Drawing objects\Shapes1\Shapes1\obj\Debug\Shapes1.Properties.Resources.resources
+C:\Users\Karellen\Desktop\MASTER PROJECT\New beginning\C#\18.03.2016 - Drawing objects\Shapes1\Shapes1\obj\Debug\Shapes1.csproj.GenerateResource.Cache
+C:\Users\Karellen\Desktop\MASTER PROJECT\New beginning\C#\18.03.2016 - Drawing objects\Shapes1\Shapes1\obj\Debug\Shapes1.exe
+C:\Users\Karellen\Desktop\MASTER PROJECT\New beginning\C#\18.03.2016 - Drawing objects\Shapes1\Shapes1\obj\Debug\Shapes1.pdb
